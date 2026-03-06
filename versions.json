@@ -1,0 +1,10 @@
+{
+  "forms": {
+    "MultiClaimInlandRM": "2.3.03",
+    "MultiClaimInlandPFW": "2.3.02",
+    "MultiClaimInternationalRM": "2.3.03",
+    "MultiClaimInternationalPFW": "2.3.06",
+    "MultiClaimInlandRMManual": "1.0.01"
+  },
+  "lastUpdated": "2026-03-06"
+}
